@@ -5,16 +5,22 @@ repo: dev-status # The name of this repository
 sites:
   - name: dev
     url: https://dev.distill.video
+    icon: https://dev.distill.video/reduct_bullet.svg
   - name: dev servers
     url: https://dev.distill.video/x/status
+    icon: https://dev.distill.video/reduct_bullet.svg
   - name: dev transcripts
     url: https://dev.distill.video/x/tsss/status
+    icon: https://dev.distill.video/reduct_bullet.svg
   - name: dev rendering
     url: https://dev.distill.video/x/render/status
+    icon: https://dev.distill.video/reduct_bullet.svg
   - name: dev live transcripts
     url: https://dev.distill.video/x/live-transcription/status
+    icon: https://dev.distill.video/reduct_bullet.svg
   - name: dev transcript processing
     url: https://dev.distill.video/x/whisper/status
+    icon: https://dev.distill.video/reduct_bullet.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

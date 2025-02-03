@@ -5,22 +5,22 @@ repo: dev-status # The name of this repository
 sites:
   - name: dev
     url: https://dev.distill.video
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
   - name: dev servers
     url: https://dev.distill.video/x/status
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
   - name: dev transcripts
     url: https://dev.distill.video/x/tsss/status
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
   - name: dev rendering
     url: https://dev.distill.video/x/render/status
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
   - name: dev live transcripts
     url: https://dev.distill.video/x/live-transcription/status
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
   - name: dev transcript processing
     url: https://dev.distill.video/x/whisper/status
-    icon: https://dev.distill.video/reduct_bullet.svg
+    icon: https://raw.githubusercontent.com/reduct-inc/dev-status/f32aa84cb961ed268530fca97cf50f7527ec5fd6/assets/reduct_bullet.svg
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -29,7 +29,6 @@ status-website:
   baseUrl: /dev-status
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Reduct dev status page
-  theme: dark
   introTitle: "Real-time status data for Reduct dev:"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:

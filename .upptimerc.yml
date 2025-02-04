@@ -39,7 +39,8 @@ status-website:
       href: https://github.com/$OWNER/$REPO/issues
   links:
     - rel: stylesheet
-      href: https://example.com/reduct-theme.css
+      type: text/css
+      href: https://dev.distill.video/reduct-theme.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

@@ -36,9 +36,7 @@ status-website:
       href: /
     - title: Updates
       href: https://github.com/$OWNER/$REPO/issues
-  links:
-    - rel: stylesheet
-      href: https://dev.distill.video/reduct-style.css
+  css: "article.up { filter: hue-rotate(65deg); background-color: white; } img.icon { display: none; } body { background-color: #F7F3EF; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

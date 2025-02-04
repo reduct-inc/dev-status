@@ -22,14 +22,5 @@
     --submit-button-background-color: #949AB7;
     --submit-button-color: #ffffff;
     --graph-opacity: 1;
-    --graph-filter: none;
+    --graph-filter: hue-rotate(65deg);
     }
-
-
-/* background-image {
-    filter: hue-rotate(65deg);
-    }
-
-.data {
-    font-family: "monaco", "ui-monospace", monospace;
-} */

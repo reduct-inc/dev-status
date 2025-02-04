@@ -31,7 +31,7 @@ status-website:
       href: /
     - title: Updates
       href: https://github.com/$OWNER/$REPO/issues
-  css: ".up:hover, .down:hover, .degraded: hover { filter: drop-shadow(5px 5px 20px rgba(0, 0, 0, 0.07)); } .chartjs-render-monitor { filter: hue-rotate(65deg); } article.up { filter: hue-rotate(65deg); background-color: white; } img.icon { display: none; } body { background-color: #F7F3EF; }"
+  css: ".chartjs-render-monitor { filter: hue-rotate(65deg); } article.up { filter: hue-rotate(65deg); background-color: white; } img.icon { display: none; } body { background-color: #F7F3EF; }"
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

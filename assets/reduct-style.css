@@ -1,0 +1,12 @@
+article.up {
+    filter: hue-rotate(65deg);
+    background-color: white;
+}
+
+img.icon {
+    display: none;
+}
+
+body {
+  background-color: #F7F3EF;
+}

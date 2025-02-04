@@ -30,13 +30,16 @@ status-website:
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Reduct dev status page
   introTitle: "Real-time status data for Reduct dev:"
-  themeUrl: https://dev.distill.video/reduct-theme.css
+  # themeUrl: https://dev.distill.video/reduct-theme.css
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
     - title: Updates
       href: https://github.com/$OWNER/$REPO/issues
+  links:
+    - rel: stylesheet
+      href: https://example.com/reduct-theme.css
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

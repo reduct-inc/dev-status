@@ -21,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   # cname: demo.upptime.js.org
   baseUrl: /dev-status
-  logoUrl: https://raw.githubusercontent.com/reduct-inc/dev-status/02adf1f4f8ee1162ecbe11dcb34e532ed92970df/assets/reduct-logo-named.svg
+  logoUrl: https://raw.githubusercontent.com/reduct-inc/dev-status/61226e21b7a8a727d6de1e6c012503680afaeaa8/assets/reduct-logo-spacing.svg
   faviconSvg: https://raw.githubusercontent.com/reduct-inc/dev-status/0124ae685a090afd518bb6260b7732c47343a2fe/assets/reduct-logo.svg
   name: Reduct dev status page
   introTitle: "Real-time status data for Reduct dev:"

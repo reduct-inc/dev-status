@@ -96,17 +96,19 @@
     "url": "https://dev.distill.video/x/whisper/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.distill.video.ico",
     "slug": "dev-transcript-processing",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 55,
-    "timeDay": 74,
-    "timeWeek": 61,
-    "timeMonth": 55,
+    "timeDay": 70,
+    "timeWeek": 62,
+    "timeMonth": 56,
     "timeYear": 55,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-02-06": 0
+    }
   }
 ]

@@ -22,7 +22,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /dev-status
   logoUrl: https://raw.githubusercontent.com/reduct-inc/dev-status/61226e21b7a8a727d6de1e6c012503680afaeaa8/assets/reduct-logo-spacing.svg
-  faviconSvg: https://raw.githubusercontent.com/reduct-inc/dev-status/0124ae685a090afd518bb6260b7732c47343a2fe/assets/reduct-logo.svg
+  faviconSvg: https://raw.githubusercontent.com/reduct-inc/dev-status/6d3f11c89d099225f2367f3448fe523b1bfffa27/assets/reduct-logo-dynamic.svg
   name: Reduct dev status page
   introTitle: "Real-time status data for Reduct dev:"
   # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)

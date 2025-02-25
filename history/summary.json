@@ -78,19 +78,19 @@
     "url": "https://dev.distill.video/x/live-transcription/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.distill.video.ico",
     "slug": "dev-live-transcripts",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 61,
-    "timeDay": 50,
-    "timeWeek": 58,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.08%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.98%",
+    "time": 62,
+    "timeDay": 62,
+    "timeWeek": 61,
     "timeMonth": 66,
-    "timeYear": 61,
+    "timeYear": 62,
     "dailyMinutesDown": {
-      "2025-02-25": 0
+      "2025-02-25": 13
     }
   },
   {

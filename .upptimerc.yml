@@ -3,17 +3,17 @@ owner: reduct-inc # Your GitHub organization or username, where this repository 
 repo: dev-status # The name of this repository
 
 sites:
-  - name: dev
+  - name: dev status
     url: https://dev.distill.video
-  - name: dev servers
+  - name: dev servers status
     url: https://dev.distill.video/x/status
-  - name: dev transcripts
+  - name: dev transcripts status
     url: https://dev.distill.video/x/tsss/status
-  - name: dev rendering
+  - name: dev rendering status
     url: https://dev.distill.video/x/render/status
-  - name: dev live transcripts
+  - name: dev live transcripts status
     url: https://dev.distill.video/x/live-transcription/status
-  - name: dev transcript processing
+  - name: dev transcript processing status
     url: https://dev.distill.video/x/whisper/status
 
 status-website:

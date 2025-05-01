@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 315,
-    "timeDay": 205,
-    "timeWeek": 253,
-    "timeMonth": 316,
-    "timeYear": 315,
+    "time": 316,
+    "timeDay": 380,
+    "timeWeek": 277,
+    "timeMonth": 325,
+    "timeYear": 316,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 61,
-    "timeDay": 41,
-    "timeWeek": 47,
-    "timeMonth": 59,
-    "timeYear": 61,
+    "time": 62,
+    "timeDay": 86,
+    "timeWeek": 52,
+    "timeMonth": 60,
+    "timeYear": 62,
     "dailyMinutesDown": {
       "2025-03-19": 8
     }
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 230,
-    "timeDay": 43,
-    "timeWeek": 47,
-    "timeMonth": 60,
-    "timeYear": 230,
+    "time": 227,
+    "timeDay": 77,
+    "timeWeek": 51,
+    "timeMonth": 61,
+    "timeYear": 227,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 300,
-    "timeDay": 57,
-    "timeWeek": 56,
-    "timeMonth": 68,
-    "timeYear": 300,
+    "time": 296,
+    "timeDay": 98,
+    "timeWeek": 62,
+    "timeMonth": 69,
+    "timeYear": 296,
     "dailyMinutesDown": {}
   },
   {
@@ -85,9 +85,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 60,
-    "timeDay": 40,
-    "timeWeek": 44,
-    "timeMonth": 56,
+    "timeDay": 79,
+    "timeWeek": 48,
+    "timeMonth": 57,
     "timeYear": 60,
     "dailyMinutesDown": {}
   },
@@ -102,11 +102,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 52,
-    "timeDay": 33,
-    "timeWeek": 37,
-    "timeMonth": 49,
-    "timeYear": 52,
+    "time": 53,
+    "timeDay": 67,
+    "timeWeek": 40,
+    "timeMonth": 50,
+    "timeYear": 53,
     "dailyMinutesDown": {
       "2025-03-25": 46
     }

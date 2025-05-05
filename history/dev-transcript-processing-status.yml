@@ -1,7 +1,7 @@
 url: https://dev.distill.video/x/whisper/status
-status: up
-code: 200
-responseTime: 68
-lastUpdated: 2025-05-05T10:38:35.369Z
+status: down
+code: 502
+responseTime: 19
+lastUpdated: 2025-05-05T13:27:35.213Z
 startTime: 2025-03-05T00:29:20.638Z
 generator: Upptime <https://github.com/upptime/upptime>

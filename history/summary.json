@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 318,
-    "timeDay": 301,
-    "timeWeek": 419,
-    "timeMonth": 325,
-    "timeYear": 318,
+    "time": 316,
+    "timeDay": 179,
+    "timeWeek": 416,
+    "timeMonth": 323,
+    "timeYear": 316,
     "dailyMinutesDown": {
       "2025-05-05": 47
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 62,
-    "timeDay": 78,
-    "timeWeek": 71,
-    "timeMonth": 66,
+    "timeDay": 37,
+    "timeWeek": 67,
+    "timeMonth": 64,
     "timeYear": 62,
     "dailyMinutesDown": {
       "2025-05-05": 47,
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 155,
-    "timeDay": 80,
-    "timeWeek": 70,
-    "timeMonth": 70,
-    "timeYear": 155,
+    "time": 154,
+    "timeDay": 34,
+    "timeWeek": 66,
+    "timeMonth": 68,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2025-05-05": 47
     }
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 199,
-    "timeDay": 90,
-    "timeWeek": 78,
-    "timeMonth": 78,
-    "timeYear": 199,
+    "time": 197,
+    "timeDay": 45,
+    "timeWeek": 75,
+    "timeMonth": 76,
+    "timeYear": 197,
     "dailyMinutesDown": {
       "2025-05-05": 47
     }
@@ -92,9 +92,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 60,
-    "timeDay": 74,
-    "timeWeek": 67,
-    "timeMonth": 64,
+    "timeDay": 32,
+    "timeWeek": 64,
+    "timeMonth": 62,
     "timeYear": 60,
     "dailyMinutesDown": {
       "2025-05-05": 47
@@ -111,11 +111,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.83%",
-    "time": 53,
-    "timeDay": 69,
-    "timeWeek": 60,
-    "timeMonth": 57,
-    "timeYear": 53,
+    "time": 52,
+    "timeDay": 24,
+    "timeWeek": 56,
+    "timeMonth": 56,
+    "timeYear": 52,
     "dailyMinutesDown": {
       "2025-05-23": 22,
       "2025-05-05": 134,

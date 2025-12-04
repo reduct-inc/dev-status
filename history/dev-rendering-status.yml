@@ -1,7 +1,7 @@
 url: https://dev.distill.video/x/render/status
-status: down
-code: 429
-responseTime: 51
-lastUpdated: 2025-12-04T05:47:42.213Z
+status: up
+code: 200
+responseTime: 33
+lastUpdated: 2025-12-04T05:56:16.993Z
 startTime: 2025-03-05T00:29:06.779Z
 generator: Upptime <https://github.com/upptime/upptime>

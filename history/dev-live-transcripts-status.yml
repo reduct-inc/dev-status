@@ -1,7 +1,7 @@
 url: https://dev.distill.video/x/live-transcription/status
-status: down
-code: 502
-responseTime: 70
-lastUpdated: 2026-02-01T12:37:29.387Z
+status: up
+code: 200
+responseTime: 49
+lastUpdated: 2026-02-01T13:05:04.266Z
 startTime: 2025-03-05T00:29:20.226Z
 generator: Upptime <https://github.com/upptime/upptime>

@@ -99,18 +99,19 @@
     "url": "https://dev.distill.video/x/live-transcription/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.distill.video.ico",
     "slug": "dev-live-transcripts-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 61,
-    "timeDay": 57,
+    "timeDay": 64,
     "timeWeek": 69,
     "timeMonth": 61,
     "timeYear": 61,
     "dailyMinutesDown": {
+      "2026-02-01": 0,
       "2025-05-05": 47
     }
   },

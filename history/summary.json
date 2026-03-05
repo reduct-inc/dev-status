@@ -66,7 +66,7 @@
     "timeDay": 70,
     "timeWeek": 71,
     "timeMonth": 67,
-    "timeYear": 117,
+    "timeYear": 91,
     "dailyMinutesDown": {
       "2025-05-05": 47
     }
@@ -76,9 +76,9 @@
     "url": "https://dev.distill.video/x/render/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.distill.video.ico",
     "slug": "dev-rendering-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -86,8 +86,9 @@
     "timeDay": 20828,
     "timeWeek": 4621,
     "timeMonth": 3914,
-    "timeYear": 434,
+    "timeYear": 400,
     "dailyMinutesDown": {
+      "2026-03-05": 0,
       "2025-12-05": 43,
       "2025-12-04": 9,
       "2025-12-03": 17,

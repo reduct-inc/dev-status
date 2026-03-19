@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 325,
-    "timeDay": 421,
-    "timeWeek": 319,
-    "timeMonth": 305,
+    "timeDay": 250,
+    "timeWeek": 308,
+    "timeMonth": 308,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2025-10-29": 8,
@@ -32,9 +32,9 @@
     "uptimeMonth": "99.83%",
     "uptimeYear": "99.89%",
     "time": 61,
-    "timeDay": 48,
-    "timeWeek": 58,
-    "timeMonth": 64,
+    "timeDay": 82,
+    "timeWeek": 62,
+    "timeMonth": 65,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2026-03-13": 18,
@@ -50,8 +50,7 @@
       "2025-12-17": 14,
       "2025-12-05": 24,
       "2025-12-03": 199,
-      "2025-05-05": 47,
-      "2025-03-19": 8
+      "2025-05-05": 47
     }
   },
   {
@@ -66,9 +65,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 115,
-    "timeDay": 52,
-    "timeWeek": 61,
-    "timeMonth": 70,
+    "timeDay": 94,
+    "timeWeek": 67,
+    "timeMonth": 71,
     "timeYear": 91,
     "dailyMinutesDown": {
       "2025-05-05": 47
@@ -86,10 +85,10 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.96%",
     "time": 420,
-    "timeDay": 55,
-    "timeWeek": 64,
-    "timeMonth": 2231,
-    "timeYear": 398,
+    "timeDay": 111,
+    "timeWeek": 71,
+    "timeMonth": 2233,
+    "timeYear": 399,
     "dailyMinutesDown": {
       "2026-03-09": 28,
       "2026-03-05": 38,
@@ -112,9 +111,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 61,
-    "timeDay": 47,
-    "timeWeek": 55,
-    "timeMonth": 66,
+    "timeDay": 92,
+    "timeWeek": 62,
+    "timeMonth": 67,
     "timeYear": 61,
     "dailyMinutesDown": {
       "2026-02-01": 28,
@@ -132,10 +131,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
-    "time": 53,
-    "timeDay": 72,
-    "timeWeek": 60,
-    "timeMonth": 47,
+    "time": 52,
+    "timeDay": 23,
+    "timeWeek": 55,
+    "timeMonth": 46,
     "timeYear": 52,
     "dailyMinutesDown": {
       "2025-11-27": 24,

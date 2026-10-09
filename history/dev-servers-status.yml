@@ -1,7 +1,7 @@
 url: https://dev.distill.video/x/status
-status: down
-code: 502
-responseTime: 4258
-lastUpdated: 2026-10-09T02:01:15.856Z
+status: up
+code: 200
+responseTime: 350
+lastUpdated: 2026-10-09T02:37:09.221Z
 startTime: 2025-03-05T00:28:56.576Z
 generator: Upptime <https://github.com/upptime/upptime>

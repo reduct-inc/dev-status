@@ -65,18 +65,20 @@
     "url": "https://dev.distill.video/x/tsss/status",
     "icon": "https://icons.duckduckgo.com/ip3/dev.distill.video.ico",
     "slug": "dev-transcripts-status",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 680,
-    "timeDay": 127,
-    "timeWeek": 187,
-    "timeMonth": 333,
-    "timeYear": 917,
-    "dailyMinutesDown": {}
+    "timeDay": 101,
+    "timeWeek": 173,
+    "timeMonth": 325,
+    "timeYear": 915,
+    "dailyMinutesDown": {
+      "2026-10-19": 0
+    }
   },
   {
     "name": "dev rendering status",

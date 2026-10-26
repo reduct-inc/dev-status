@@ -7,8 +7,6 @@ sites:
     url: https://dev.distill.video
   - name: dev servers status
     url: https://dev.distill.video/x/status
-  - name: dev transcripts status
-    url: https://dev.distill.video/x/tsss/status
   - name: dev rendering status
     url: https://dev.distill.video/x/render/status
   - name: dev live transcripts status
